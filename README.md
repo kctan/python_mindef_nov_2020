@@ -3,17 +3,8 @@
 Course materials are contained in this repository
 
 
-## Scratch pad for the course:
-
-Instructor led code dissemination: <br>
-https://codeshare.io/Python-RP
-
-Help line, for instructor to help debug: <br>
-https://codeshare.io/Python-Help
-
-
-
-
+## Python CET Share
+https://bit.ly/py-share
 
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
